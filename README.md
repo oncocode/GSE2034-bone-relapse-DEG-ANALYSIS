@@ -110,32 +110,6 @@ The complete numerical results are provided in the CSV files included in this re
 
 ---
 
-Repository Structure
-
-GSE2034-bone-relapse-DEG-ANALYSIS/
-│
-├── README.md
-│
-├── GSE2034_analysis.R
-│
-├── GSE2034_analysis_summary.csv
-├── GSE2034_significant_unique_genes.csv
-├── GSE2034_KEGG_downregulated.csv
-│
-├── GSE2034_PCA_plot.png
-├── GSE2034_MA_plot.png
-├── GSE2034_volcano_plot.png
-├── GSE2034_top_DEG_heatmap.png
-│
-├── GSE2034_GO_lower_in_bone_relapse_dotplot.png
-├── GSE2034_KEGG_downregulated_dotplot.png
-├── GSE2034_KEGG_lower_in_bone_relapse_dotplot.png
-└── GSE2034_KEGG_upregulated_dotplot.png
-
-The repository structure may be updated as the project becomes more reproducible.
-
----
-
 Tools and Technologies
 
 - R
@@ -182,16 +156,6 @@ This project reflects my interest in:
 - Differential gene expression
 - Molecular mechanisms of cancer metastasis
 - Computational cancer research
-
----
-
-Author
-
-Farhat Monjur Mahi
-
-MBBS | Aspiring Cancer Researcher & Bioinformatician
-
-GitHub: https://github.com/oncocode
 
 ---
 
