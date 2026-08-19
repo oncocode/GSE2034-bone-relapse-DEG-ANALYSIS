@@ -1,0 +1,9 @@
+"Metric","Value"
+"Samples analyzed",286
+"No bone relapse",217
+"Bone relapse",69
+"Probes tested",22283
+"Significant unique genes",24
+"Higher in bone relapse",6
+"Lower in bone relapse",18
+"KEGG pathways lower in bone relapse",2
