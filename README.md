@@ -144,21 +144,6 @@ Further validation using independent datasets and experimental studies would be 
 
 ---
 
-Research Interests
-
-This project reflects my interest in:
-
-- Cancer biology
-- Breast cancer
-- Cancer genomics
-- Bioinformatics
-- Transcriptomics
-- Differential gene expression
-- Molecular mechanisms of cancer metastasis
-- Computational cancer research
-
----
-
 Acknowledgements
 
 This project uses publicly available data from the NCBI Gene Expression Omnibus (GEO).
